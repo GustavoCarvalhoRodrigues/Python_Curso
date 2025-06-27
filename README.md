@@ -19,9 +19,6 @@ Consolidar os conhecimentos adquiridos no curso por meio de exercícios prático
 🚀 Ferramentas Utilizadas
 Editor de Código: Visual Studio Code ou PyCharm
 Python: Versão 3.8 ou superior (disponível em python.org)
-📂 Estrutura do Repositório
-
-![image](https://github.com/user-attachments/assets/64ac4245-7447-4868-92f7-b09c87b0c9ab)
 
 📺 Sobre o Curso
 Instrutor: Professor Gustavo Guanabara
